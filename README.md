@@ -3,7 +3,8 @@
 # 💫 About Me:
 👋 Hi, I’m Prakrti Mankar<br>A curious & adaptable Software Engineer passionate about crafting innovative solutions and solving problems creatively. Here's a quick peek into my journey:<be>
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ1cjR0ODRqcWdnN28xOHFsYmUwcnpjeHdodGJpYThycTJ1ZG05diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDdqCDneNvC0s6LdYg/giphy.gif)
+![56394e1cfd7ab0204703ff6e49936d55](https://github.com/user-attachments/assets/0583bdca-6eea-4545-be6a-4249577da931)
+
 
 <br>🔭 Currently Working On<br>      ✨ Building dynamic mobile & web apps<br>      ✨ Enhancing UX with React Native<br>      ✨ Refining backend integrations<br><br>🤝 Let’s Collaborate On<br>      💡 Open-source projects<br>      💡 Creative & impactful software solutions<br><br>🛠️ Looking For Help With<br>      📚 Advanced system design<br>      📚 Open-source contributions<br><br>🌱 Currently Learning<br>      🚀 Mastering JavaScript<br>      🚀 Optimizing React Native performance<br>      🚀 Expanding my knowledge in Network Engineering<br><br>💬 Ask Me About<br>      📱 Web & mobile development<br>      🌀 Agile workflows<br>      🎨 Blending creativity with technical depth<br><br>⚡ Fun Fact<br>Coding feels like solving puzzles—it’s logic meets art! And yes, coffee fuels my ideas ☕✨
 
